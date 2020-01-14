@@ -675,6 +675,7 @@
 					#header nav a:hover:before {
 						background-color: rgba(255, 255, 255, 0.175);
 						color: hsla(20, 93%, 70%, 1);
+						border: solid 2px hsla(20, 93%, 70%, 1);
 					}
 
 				#header nav a:active {
@@ -685,6 +686,7 @@
 					#header nav a:active:before {
 						background-color: rgba(255, 255, 255, 0.35);
 						color: #fff;
+						border: solid 2px #fff;
 					}
 
 				#header nav a span {
