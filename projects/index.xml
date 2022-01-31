@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on DarkPro1337</title>
+    <link>https://darkpro1337.github.io/projects/</link>
+    <description>Recent content in Projects on DarkPro1337</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 05 Oct 2021 00:16:38 +0300</lastBuildDate><atom:link href="https://darkpro1337.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arcomage Remake I&#39;m working on currently</title>
+      <link>https://darkpro1337.github.io/projects/2021/arcomage-remake-i-m-working-currently/</link>
+      <pubDate>Tue, 05 Oct 2021 00:16:38 +0300</pubDate>
+      
+      <guid>https://darkpro1337.github.io/projects/2021/arcomage-remake-i-m-working-currently/</guid>
+      <description>Hello! I am an indie developer working on a remake of the Might &amp;amp; Magic series card mini-game called Arcomage.</description>
+    </item>
+    
+    <item>
+      <title>Arcomage Remake 0.3-alpha updates!</title>
+      <link>https://darkpro1337.github.io/projects/2021/arcomage-remake-updates-first-release-soon/</link>
+      <pubDate>Sun, 25 Jul 2021 01:03:02 +0300</pubDate>
+      
+      <guid>https://darkpro1337.github.io/projects/2021/arcomage-remake-updates-first-release-soon/</guid>
+      <description>I graduated from the university and received a diploma, already managed to get a job. Had been ill with COVID-19, without complications, suffered in a relatively mild form. And I&amp;rsquo;m ready to work on the remake further!</description>
+    </item>
+    
+    <item>
+      <title>Arcomage Remake updates. First release soon!</title>
+      <link>https://darkpro1337.github.io/projects/2021/arcomage-remake-updates-first-release-soon/</link>
+      <pubDate>Thu, 27 May 2021 00:45:01 +0300</pubDate>
+      
+      <guid>https://darkpro1337.github.io/projects/2021/arcomage-remake-updates-first-release-soon/</guid>
+      <description>I&amp;rsquo;m still working on the remake of Arcomage, I&amp;rsquo;ve been very busy the last few months because of my studies. But I tried to find time to make some progress. So I would like to write a small change log of current updates.</description>
+    </item>
+    
+  </channel>
+</rss>
