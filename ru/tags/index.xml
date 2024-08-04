@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on DarkPro1337</title>
+    <link>https://darkpro1337.github.io/ru/tags/</link>
+    <description>Recent content in Tags on DarkPro1337</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <lastBuildDate>Sun, 25 Jul 2021 01:03:02 +0300</lastBuildDate>
+    <atom:link href="https://darkpro1337.github.io/ru/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arcomage</title>
+      <link>https://darkpro1337.github.io/ru/tags/arcomage/</link>
+      <pubDate>Sun, 25 Jul 2021 01:03:02 +0300</pubDate>
+      <guid>https://darkpro1337.github.io/ru/tags/arcomage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Devlog</title>
+      <link>https://darkpro1337.github.io/ru/tags/devlog/</link>
+      <pubDate>Sun, 25 Jul 2021 01:03:02 +0300</pubDate>
+      <guid>https://darkpro1337.github.io/ru/tags/devlog/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
