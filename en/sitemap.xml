@@ -3,6 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://darkpro1337.github.io/dev/</loc>
+            <lastmod>2025-02-13T04:48:34+04:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="ru"
+              href="https://darkpro1337.github.io/ru/dev/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://darkpro1337.github.io/dev/"
+              />
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://darkpro1337.github.io/dev/wasm-modding-godot/</loc>
+            <lastmod>2025-02-13T04:48:34+04:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="ru"
+              href="https://darkpro1337.github.io/ru/dev/wasm-modding-godot/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://darkpro1337.github.io/dev/wasm-modding-godot/"
+              />
+          </url>
+    
+  
+    
       <url>
             <loc>https://darkpro1337.github.io/about/</loc>
             <lastmod>2024-08-04T05:22:30+00:00</lastmod>
@@ -15,23 +59,6 @@
               rel="alternate"
               hreflang="en"
               href="https://darkpro1337.github.io/about/"
-              />
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://darkpro1337.github.io/</loc>
-            <lastmod>2024-08-04T05:22:30+00:00</lastmod>
-            <xhtml:link
-              rel="alternate"
-              hreflang="ru"
-              href="https://darkpro1337.github.io/ru/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="https://darkpro1337.github.io/"
               />
           </url>
     
@@ -54,20 +81,18 @@
     
   
     
-  
-    
       <url>
-            <loc>https://darkpro1337.github.io/projects/2021/arcomage-remake-0-3-alpha-updates/</loc>
-            <lastmod>2021-07-25T01:03:02+03:00</lastmod>
+            <loc>https://darkpro1337.github.io/</loc>
+            <lastmod>2024-08-04T05:22:30+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="ru"
-              href="https://darkpro1337.github.io/ru/projects/2021/arcomage-remake-0-3-alpha-updates/"
+              href="https://darkpro1337.github.io/ru/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="https://darkpro1337.github.io/projects/2021/arcomage-remake-0-3-alpha-updates/"
+              href="https://darkpro1337.github.io/"
               />
           </url>
     
@@ -76,53 +101,51 @@
   
     
       <url>
-            <loc>https://darkpro1337.github.io/projects/</loc>
+            <loc>https://darkpro1337.github.io/dev/2021/arcomage-remake-0-3-alpha-updates/</loc>
             <lastmod>2021-07-25T01:03:02+03:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="ru"
-              href="https://darkpro1337.github.io/ru/projects/"
+              href="https://darkpro1337.github.io/ru/dev/2021/arcomage-remake-0-3-alpha-updates/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="https://darkpro1337.github.io/projects/"
+              href="https://darkpro1337.github.io/dev/2021/arcomage-remake-0-3-alpha-updates/"
               />
           </url>
     
   
     
-  
-    
       <url>
-            <loc>https://darkpro1337.github.io/projects/2021/arcomage-remake-updates-first-release-soon/</loc>
+            <loc>https://darkpro1337.github.io/dev/2021/arcomage-remake-updates-first-release-soon/</loc>
             <lastmod>2021-05-27T00:45:01+03:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="ru"
-              href="https://darkpro1337.github.io/ru/projects/2021/arcomage-remake-updates-first-release-soon/"
+              href="https://darkpro1337.github.io/ru/dev/2021/arcomage-remake-updates-first-release-soon/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="https://darkpro1337.github.io/projects/2021/arcomage-remake-updates-first-release-soon/"
+              href="https://darkpro1337.github.io/dev/2021/arcomage-remake-updates-first-release-soon/"
               />
           </url>
     
   
     
       <url>
-            <loc>https://darkpro1337.github.io/projects/2020/arcomage-remake-i-m-working-currently/</loc>
+            <loc>https://darkpro1337.github.io/dev/2020/arcomage-remake-i-m-working-currently/</loc>
             <lastmod>2020-10-05T00:16:38+03:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="ru"
-              href="https://darkpro1337.github.io/ru/projects/2020/arcomage-remake-i-m-working-currently/"
+              href="https://darkpro1337.github.io/ru/dev/2020/arcomage-remake-i-m-working-currently/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="https://darkpro1337.github.io/projects/2020/arcomage-remake-i-m-working-currently/"
+              href="https://darkpro1337.github.io/dev/2020/arcomage-remake-i-m-working-currently/"
               />
           </url>
     

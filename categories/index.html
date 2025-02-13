@@ -15,7 +15,7 @@
 ><head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="theme-color" content="rgb(255,255,255)" />
+  <meta name="theme-color" content="#FFFFFF" />
   
   <title>Categories &middot; DarkPro1337</title>
     <meta name="title" content="Categories &middot; DarkPro1337" />
@@ -26,8 +26,8 @@
   
   <script
     type="text/javascript"
-    src="/js/appearance.min.74ad8406faea02f3e186ba5126249aaeed9073629e04b05037b903396b188724.js"
-    integrity="sha256-dK2EBvrqAvPhhrpRJiSaru2Qc2KeBLBQN7kDOWsYhyQ="
+    src="/js/appearance.min.8ee406bb1f2a9f88dfbd8f7d4711bbfb6eafcb2b83feace6c777f0c945c50897.js"
+    integrity="sha256-juQGux8qn4jfvY99RxG7&#43;26vyyuD/qzmx3fwyUXFCJc="
   ></script>
   
   
@@ -40,8 +40,8 @@
   <link
     type="text/css"
     rel="stylesheet"
-    href="/css/main.bundle.min.05134b0c076d1b4bbb3ca117e58cecc39cb5f77b40d6d202c5e4ecd80dea9dc8.css"
-    integrity="sha256-BRNLDAdtG0u7PKEX5Yzsw5y193tA1tICxeTs2A3qncg="
+    href="/css/main.bundle.min.3e97d1a40161cd59b059d44499fc9d982d868881f1450889ca07e646a9fb3a8e.css"
+    integrity="sha256-PpfRpAFhzVmwWdREmfydmC2GiIHxRQiJygfmRqn7Oo4="
   />
   
     
@@ -117,9 +117,11 @@
     
       <link href="mailto:darkprothekun@gmail.com" rel="me" />
     
+      <link href="https://github.com/DarkPro1337" rel="me" />
+    
       <link href="https://t.me/DarkPro1337" rel="me" />
     
-      <link href="https://github.com/DarkPro1337" rel="me" />
+      <link href="https://linkedin.com/in/darkpro1337" rel="me" />
     
       <link href="https://x.com/darkpro1337" rel="me" />
     
@@ -129,8 +131,6 @@
     
       <link href="https://unsplash.com/@darkpro1337" rel="me" />
     
-      <link href="https://linkedin.com/in/darkpro1337" rel="me" />
-    
   
   
   
@@ -140,6 +140,7 @@
 
 
 
+  
   
   
   
@@ -154,7 +155,7 @@
   
 </head>
 <body
-    class="m-auto flex h-screen max-w-7xl flex-col bg-neutral px-6 text-lg leading-7 text-neutral-900 sm:px-14 md:px-24 lg:px-32 dark:bg-neutral-800 dark:text-neutral"
+    class="m-auto flex h-screen max-w-7xl flex-col bg-neutral px-6 text-lg leading-7 text-neutral-900 dark:bg-neutral-800 dark:text-neutral sm:px-14 md:px-24 lg:px-32"
   >
     <div id="the-top" class="absolute flex self-center">
       <a
@@ -166,7 +167,7 @@
     </div>
     
     
-      <header class="py-6 font-semibold text-neutral-900 print:hidden sm:py-10 dark:text-neutral">
+      <header class="py-6 font-semibold text-neutral-900 dark:text-neutral sm:py-10 print:hidden">
   <nav class="flex items-start justify-between sm:items-center">
     
     <div class="z-40 flex flex-row items-center">
@@ -206,13 +207,13 @@
                 <li class="group mb-1">
                   
                     <a
-                      href="/projects/"
+                      href="/dev/"
                       title=""
                       onclick="close_menu()"
                       
                       ><span
                           class="decoration-primary-500 group-hover:underline group-hover:decoration-2 group-hover:underline-offset-2"
-                          >Projects</span
+                          >Devblog</span
                         >
                       </a
                     >
@@ -369,12 +370,12 @@
             <li class="group mb-1 sm:mb-0 sm:me-7 sm:last:me-0">
               
                 <a
-                  href="/projects/"
+                  href="/dev/"
                   title=""
                   
                   ><span
                       class="decoration-primary-500 group-hover:underline group-hover:decoration-2 group-hover:underline-offset-2"
-                      >Projects</span
+                      >Devblog</span
                     >
                   </a
                 >
@@ -537,8 +538,23 @@
     
   </section>
 
-        
-      </main><footer class="py-10 print:hidden">
+      </main>
+      
+        <div
+          class="pointer-events-none absolute bottom-0 end-0 top-[100vh] w-12"
+          id="to-top"
+          hidden="true"
+        >
+          <a
+            href="#the-top"
+            class="pointer-events-auto sticky top-[calc(100vh-5.5rem)] flex h-12 w-12 items-center justify-center rounded-full bg-neutral/50 text-xl text-neutral-700 backdrop-blur hover:text-primary-600 dark:bg-neutral-800/50 dark:text-neutral dark:hover:text-primary-400"
+            aria-label="Scroll to top"
+            title="Scroll to top"
+          >
+            &uarr;
+          </a>
+        </div>
+      <footer class="py-10 print:hidden">
   
   
   <div class="flex items-center justify-between">
@@ -547,7 +563,7 @@
       
         <p class="text-sm text-neutral-500 dark:text-neutral-400">
             &copy;
-            2024
+            2025
             Artem Chernykh
         </p>
       
@@ -594,7 +610,7 @@
 </footer>
 <div
   id="search-wrapper"
-  class="invisible fixed inset-0 z-50 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm sm:p-6 md:p-[10vh] lg:p-[12vh] dark:bg-neutral-900/50"
+  class="invisible fixed inset-0 z-50 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh]"
   data-url="https://darkpro1337.github.io/"
 >
   <div

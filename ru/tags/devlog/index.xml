@@ -6,27 +6,34 @@
     <description>Recent content in Devlog on DarkPro1337</description>
     <generator>Hugo</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 25 Jul 2021 01:03:02 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 04:48:34 +0400</lastBuildDate>
     <atom:link href="https://darkpro1337.github.io/ru/tags/devlog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>WASM моддинг для ваших игр на Godot .NET</title>
+      <link>https://darkpro1337.github.io/ru/dev/wasm-modding-godot/</link>
+      <pubDate>Thu, 13 Feb 2025 04:48:34 +0400</pubDate>
+      <guid>https://darkpro1337.github.io/ru/dev/wasm-modding-godot/</guid>
+      <description>При разработке Arcomage на Godot .NET я столкнулся с проблемой: как добавить поддержку скриптового моддинга в игру?</description>
+    </item>
+    <item>
       <title>Обновление ремейка Аркомага 0.3-alpha</title>
-      <link>https://darkpro1337.github.io/ru/projects/2021/arcomage-remake-0-3-alpha-updates/</link>
+      <link>https://darkpro1337.github.io/ru/dev/2021/arcomage-remake-0-3-alpha-updates/</link>
       <pubDate>Sun, 25 Jul 2021 01:03:02 +0300</pubDate>
-      <guid>https://darkpro1337.github.io/ru/projects/2021/arcomage-remake-0-3-alpha-updates/</guid>
+      <guid>https://darkpro1337.github.io/ru/dev/2021/arcomage-remake-0-3-alpha-updates/</guid>
       <description>Всем привет! Я закончил университет и получил диплом, уже успел устроиться на работу. Переболел COVID-19, без осложнений, перенёс в относительно легкой форме. И я готов работать над ремейком дальше!</description>
     </item>
     <item>
       <title>Обновления ремейка Аркомага. Первый релиз уже скоро!</title>
-      <link>https://darkpro1337.github.io/ru/projects/2021/arcomage-remake-updates-first-release-soon/</link>
+      <link>https://darkpro1337.github.io/ru/dev/2021/arcomage-remake-updates-first-release-soon/</link>
       <pubDate>Thu, 27 May 2021 00:45:01 +0300</pubDate>
-      <guid>https://darkpro1337.github.io/ru/projects/2021/arcomage-remake-updates-first-release-soon/</guid>
+      <guid>https://darkpro1337.github.io/ru/dev/2021/arcomage-remake-updates-first-release-soon/</guid>
       <description>Я все еще работаю над ремейком Аркомага, последние несколько месяцев я был очень занят из-за учебы. Но я старался найти время, чтобы сделать хоть какой-то прогресс. Поэтому я хотел бы написать небольшой журнал текущих изменений.</description>
     </item>
     <item>
       <title>Ремейк Arcomage над которым я сейчас работаю</title>
-      <link>https://darkpro1337.github.io/ru/projects/2020/arcomage-remake-i-m-working-currently/</link>
+      <link>https://darkpro1337.github.io/ru/dev/2020/arcomage-remake-i-m-working-currently/</link>
       <pubDate>Mon, 05 Oct 2020 00:16:38 +0300</pubDate>
-      <guid>https://darkpro1337.github.io/ru/projects/2020/arcomage-remake-i-m-working-currently/</guid>
+      <guid>https://darkpro1337.github.io/ru/dev/2020/arcomage-remake-i-m-working-currently/</guid>
       <description>Привет! Я инди-разработчик, работающий над ремейком карточной мини-игры из серии Might &amp;amp; Magic под названием Arcomage.</description>
     </item>
   </channel>
