@@ -9,11 +9,11 @@
     <lastBuildDate>Thu, 13 Feb 2025 04:48:34 +0400</lastBuildDate>
     <atom:link href="https://darkpro1337.github.io/ru/dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>WASM моддинг для ваших игр на Godot .NET</title>
+      <title>WASM-моддинг для ваших игр на Godot .NET</title>
       <link>https://darkpro1337.github.io/ru/dev/wasm-modding-godot/</link>
       <pubDate>Thu, 13 Feb 2025 04:48:34 +0400</pubDate>
       <guid>https://darkpro1337.github.io/ru/dev/wasm-modding-godot/</guid>
-      <description>Узнайте, как безопасно внедрить моддинг на базе WASM в вашу игру на Godot .NET с помощью Wasmtime и AssemblyScript. Создайте кастомное API, исключающее риск инъекции DLL.</description>
+      <description>Откройте для себя безопасный, изолированный WASM-моддинг для вашей игры на Godot .NET с использованием Wasmtime и AssemblyScript. Создайте собственный API для модов, который исключает риски, связанные с внедрением DLL.</description>
     </item>
     <item>
       <title>Обновление ремейка Аркомага 0.3-alpha</title>
