@@ -732,7 +732,71 @@
         </div>
       
       <div class="min-h-0 min-w-0 max-w-prose grow">
-        <p>При разработке <strong>Arcomage</strong> на <strong>Godot .NET</strong> возникла задача: как добавить поддержку моддинга через скрипты, не прибегая к прямой инъекции DLL, что небезопасно и может привести к серьезным проблемам, таким как внедрение вирусов или утечка персональных данных.</p>
+        <p>
+
+
+
+
+
+<figure>
+    
+    
+
+
+
+
+
+
+
+
+  
+    <picture
+      class="mx-auto my-0 rounded-md"
+      
+    >
+      
+      
+      
+      
+        <source
+          
+            srcset="/ru/dev/wasm-modding-godot/post.ru_hu9028870066585396534.webp 330w,/ru/dev/wasm-modding-godot/post.ru_hu8957475123009005046.webp 660w
+            
+              ,/ru/dev/wasm-modding-godot/post.ru_hu11069903638947722150.webp 1024w
+            
+            
+              ,/ru/dev/wasm-modding-godot/post.ru_hu7400406009426741625.webp 1320w
+            "
+          
+          sizes="100vw"
+          type="image/webp"
+        />
+      
+      <img
+        width="1920"
+        height="1080"
+        class="mx-auto my-0 rounded-md"
+        alt="WASM моддинг для ваших игр на Godot .NET"
+        loading="lazy" decoding="async"
+        
+          src="/ru/dev/wasm-modding-godot/post.ru_hu14533743326929404548.png"
+          srcset="/ru/dev/wasm-modding-godot/post.ru_hu7711482368758639872.png 330w,/ru/dev/wasm-modding-godot/post.ru_hu14533743326929404548.png 660w
+          
+            ,/ru/dev/wasm-modding-godot/post.ru_hu6375312539170488813.png 1024w
+          
+          
+            ,/ru/dev/wasm-modding-godot/post.ru_hu13112908673531004125.png 1320w
+          "
+          sizes="100vw"
+        
+      />
+    </picture>
+  
+
+
+</figure>
+
+При разработке <strong>Arcomage</strong> на <strong>Godot .NET</strong> возникла задача: как добавить поддержку моддинга через скрипты, не прибегая к прямой инъекции DLL, что небезопасно и может привести к серьезным проблемам, таким как внедрение вирусов или утечка персональных данных.</p>
 <p>Чтобы избежать этих рисков, я решил реализовать моды в отдельной песочнице. Цель — создать общее API для модов, чтобы сделать их безопасными и удобными для написания. Меня вдохновило видео <a href="https://youtu.be/kcWVYeaFmqQ" target="_blank" rel="noreferrer">the nameless dev</a>, которое наглядно демонстрирует, как реализовать поддержку WASM модов. Огромное спасибо автору за его знания!</p>
 <p>Ранее я знал о WebAssembly, но не рассматривал его как песочницу для модов. Узнав, что даже Microsoft Flight Simulator 2020 использует WASM для выполнения скриптов модов, я понял: это отличная идея!</p>
 <p>В этой статье я поделюсь опытом и идеями по внедрению WASM моддинга в Godot .NET.</p>

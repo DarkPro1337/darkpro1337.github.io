@@ -732,7 +732,71 @@
         </div>
       
       <div class="min-h-0 min-w-0 max-w-prose grow">
-        <p>While developing <strong>Arcomage</strong> using <strong>Godot .NET</strong>, I faced a challenge: how can I add support for script-based modding to the game? The issue was that I didn&rsquo;t want to allow direct DLL injection—highly insecure and prone to abuse by injecting malicious code that could compromise user systems or steal sensitive data like passwords.</p>
+        <p>
+
+
+
+
+
+<figure>
+    
+    
+
+
+
+
+
+
+
+
+  
+    <picture
+      class="mx-auto my-0 rounded-md"
+      
+    >
+      
+      
+      
+      
+        <source
+          
+            srcset="/dev/wasm-modding-godot/post_hu17483117227886112924.webp 330w,/dev/wasm-modding-godot/post_hu4542369940482430313.webp 660w
+            
+              ,/dev/wasm-modding-godot/post_hu14920000181793625470.webp 1024w
+            
+            
+              ,/dev/wasm-modding-godot/post_hu633402208501811307.webp 1320w
+            "
+          
+          sizes="100vw"
+          type="image/webp"
+        />
+      
+      <img
+        width="1920"
+        height="1080"
+        class="mx-auto my-0 rounded-md"
+        alt="WASM Modding for Your Godot .NET Games"
+        loading="lazy" decoding="async"
+        
+          src="/dev/wasm-modding-godot/post_hu7981397853620484874.png"
+          srcset="/dev/wasm-modding-godot/post_hu16919673088398518366.png 330w,/dev/wasm-modding-godot/post_hu7981397853620484874.png 660w
+          
+            ,/dev/wasm-modding-godot/post_hu2888870524550046728.png 1024w
+          
+          
+            ,/dev/wasm-modding-godot/post_hu18323719539705365666.png 1320w
+          "
+          sizes="100vw"
+        
+      />
+    </picture>
+  
+
+
+</figure>
+
+While developing <strong>Arcomage</strong> using <strong>Godot .NET</strong>, I faced a challenge: how can I add support for script-based modding to the game? The issue was that I didn&rsquo;t want to allow direct DLL injection—highly insecure and prone to abuse by injecting malicious code that could compromise user systems or steal sensitive data like passwords.</p>
 <p>Instead, I opted for a sandboxed approach where mods execute safely without posing risks to end users. My goal was to create a common API for all mods to make them both safer and easier to write. That&rsquo;s when I came across a video by <a href="https://youtu.be/kcWVYeaFmqQ" target="_blank" rel="noreferrer">the nameless dev</a> that clearly and concisely explained how to implement WASM mod support. Huge thanks to the author for sharing his insights!</p>
 <p>I was aware of WebAssembly before, but I hadn’t considered it as a sandbox for running script-based mods in a game. It was a revelation to learn that Microsoft Flight Simulator 2020 uses WebAssembly for mod scripts—and that&rsquo;s pretty awesome!</p>
 <p>So, I decided to try something similar for Arcomage. In this article, I&rsquo;ll share my findings and ideas on implementing WASM modding in Godot .NET.</p>
