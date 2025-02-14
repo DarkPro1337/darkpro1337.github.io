@@ -13,7 +13,7 @@
       <link>https://darkpro1337.github.io/dev/wasm-modding-godot/</link>
       <pubDate>Thu, 13 Feb 2025 04:48:34 +0400</pubDate>
       <guid>https://darkpro1337.github.io/dev/wasm-modding-godot/</guid>
-      <description>While developing Arcomage with Godot .NET, I encountered the challenge of adding support for script-based modding to the game.</description>
+      <description>Discover safe, sandboxed WASM modding for your Godot .NET game using Wasmtime and AssemblyScript. Build a custom mod API that avoids DLL injection risks.</description>
     </item>
     <item>
       <title>About me</title>

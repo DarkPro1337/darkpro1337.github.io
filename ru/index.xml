@@ -13,7 +13,7 @@
       <link>https://darkpro1337.github.io/ru/dev/wasm-modding-godot/</link>
       <pubDate>Thu, 13 Feb 2025 04:48:34 +0400</pubDate>
       <guid>https://darkpro1337.github.io/ru/dev/wasm-modding-godot/</guid>
-      <description>При разработке Arcomage на Godot .NET я столкнулся с проблемой: как добавить поддержку скриптового моддинга в игру?</description>
+      <description>Узнайте, как безопасно внедрить моддинг на базе WASM в вашу игру на Godot .NET с помощью Wasmtime и AssemblyScript. Создайте кастомное API, исключающее риск инъекции DLL.</description>
     </item>
     <item>
       <title>Артем Черных</title>
