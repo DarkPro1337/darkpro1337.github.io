@@ -1025,7 +1025,7 @@ function loadGiscus(theme) {
   script.setAttribute('data-emit-metadata', '0');
   script.setAttribute('data-input-position', 'top');
   script.setAttribute('data-theme', theme);
-  script.setAttribute('data-lang', 'ru');
+  script.setAttribute('data-lang', 'en');
   script.setAttribute('data-loading', 'lazy');
   script.crossOrigin = 'anonymous';
   script.async = true;
@@ -1035,7 +1035,6 @@ function loadGiscus(theme) {
 const theme = document.documentElement.classList.contains('dark') ? 'dark' : 'light';
 loadGiscus(theme);
 </script>
-
             </div>
           </div>
         
