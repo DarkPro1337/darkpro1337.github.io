@@ -16,18 +16,18 @@
       <description>Discover safe, sandboxed WASM modding for your Godot .NET game using Wasmtime and AssemblyScript. Build a custom mod API that avoids DLL injection risks.</description>
     </item>
     <item>
-      <title>About me</title>
-      <link>https://darkpro1337.github.io/about/</link>
-      <pubDate>Sun, 04 Aug 2024 05:22:30 +0000</pubDate>
-      <guid>https://darkpro1337.github.io/about/</guid>
-      <description>A little bit about me.</description>
-    </item>
-    <item>
       <title>Artem Chernykh</title>
       <link>https://darkpro1337.github.io/cv/</link>
       <pubDate>Sun, 04 Aug 2024 05:22:30 +0000</pubDate>
       <guid>https://darkpro1337.github.io/cv/</guid>
       <description>Results-driven Tools Programmer with a proven track record at Saber Interactive. Specializing in designing robust, efficient WPF-based solutions that streamline workflows and elevate user satisfaction. Adept at bridging the gap between technical innovation and practical application, I consistently deliver measurable improvements through collaboration, code quality, and agile practices.</description>
+    </item>
+    <item>
+      <title>My Devices</title>
+      <link>https://darkpro1337.github.io/about/devices/</link>
+      <pubDate>Sun, 04 Aug 2024 05:22:30 +0000</pubDate>
+      <guid>https://darkpro1337.github.io/about/devices/</guid>
+      <description>A list of devices I use for work and entertainment.</description>
     </item>
     <item>
       <title>Arcomage Remake 0.3-alpha updates!</title>

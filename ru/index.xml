@@ -23,11 +23,11 @@
       <description>Программист инструментов разработки, ориентированный на результат, с подтверждённым опытом работы в Saber Interactive. Специализируюсь на разработке надёжных и эффективных решений на базе WPF, оптимизирующих рабочие процессы и повышающих удовлетворённость пользователей. Умею объединять технические инновации с практическим применением, благодаря чему стабильно достигаю ощутимых улучшений через командное взаимодействие, высокое качество кода и гибкие методологии.</description>
     </item>
     <item>
-      <title>Обо мне</title>
-      <link>https://darkpro1337.github.io/ru/about/</link>
+      <title>Мои девайсы</title>
+      <link>https://darkpro1337.github.io/ru/about/devices/</link>
       <pubDate>Sun, 04 Aug 2024 05:22:30 +0000</pubDate>
-      <guid>https://darkpro1337.github.io/ru/about/</guid>
-      <description>Немного о себе</description>
+      <guid>https://darkpro1337.github.io/ru/about/devices/</guid>
+      <description>Список устройств, которые я использую для работы и развлечений.</description>
     </item>
     <item>
       <title>Обновление ремейка Аркомага 0.3-alpha</title>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About me on DarkPro1337</title>
+    <link>https://darkpro1337.github.io/about/</link>
+    <description>Recent content in About me on DarkPro1337</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 04 Aug 2024 05:22:30 +0000</lastBuildDate>
+    <atom:link href="https://darkpro1337.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Devices</title>
+      <link>https://darkpro1337.github.io/about/devices/</link>
+      <pubDate>Sun, 04 Aug 2024 05:22:30 +0000</pubDate>
+      <guid>https://darkpro1337.github.io/about/devices/</guid>
+      <description>A list of devices I use for work and entertainment.</description>
+    </item>
+  </channel>
+</rss>
