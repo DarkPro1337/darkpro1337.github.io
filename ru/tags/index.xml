@@ -1,47 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on DarkPro1337</title>
-    <link>https://darkpro1337.github.io/ru/tags/</link>
-    <description>Recent content in Tags on DarkPro1337</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Thu, 13 Feb 2025 04:48:34 +0400</lastBuildDate>
-    <atom:link href="https://darkpro1337.github.io/ru/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Devlog</title>
-      <link>https://darkpro1337.github.io/ru/tags/devlog/</link>
-      <pubDate>Thu, 13 Feb 2025 04:48:34 +0400</pubDate>
-      <guid>https://darkpro1337.github.io/ru/tags/devlog/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Godot</title>
-      <link>https://darkpro1337.github.io/ru/tags/godot/</link>
-      <pubDate>Thu, 13 Feb 2025 04:48:34 +0400</pubDate>
-      <guid>https://darkpro1337.github.io/ru/tags/godot/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Modding</title>
-      <link>https://darkpro1337.github.io/ru/tags/modding/</link>
-      <pubDate>Thu, 13 Feb 2025 04:48:34 +0400</pubDate>
-      <guid>https://darkpro1337.github.io/ru/tags/modding/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Wasm</title>
-      <link>https://darkpro1337.github.io/ru/tags/wasm/</link>
-      <pubDate>Thu, 13 Feb 2025 04:48:34 +0400</pubDate>
-      <guid>https://darkpro1337.github.io/ru/tags/wasm/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Arcomage</title>
-      <link>https://darkpro1337.github.io/ru/tags/arcomage/</link>
-      <pubDate>Sun, 25 Jul 2021 01:03:02 +0300</pubDate>
-      <guid>https://darkpro1337.github.io/ru/tags/arcomage/</guid>
-      <description></description>
-    </item>
-  </channel>
+	<channel>
+		<title>Tags on DarkPro1337</title>
+		<link>https://darkpro1337.github.io/ru/tags/</link>
+		<description>Recent content in Tags on DarkPro1337</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 13 Feb 2025 04:48:34 +0400</lastBuildDate>
+		
+			<atom:link href="https://darkpro1337.github.io/ru/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Devlog</title>
+				<link>https://darkpro1337.github.io/ru/tags/devlog/</link>
+				<pubDate>Thu, 13 Feb 2025 04:48:34 +0400</pubDate>
+				<guid>https://darkpro1337.github.io/ru/tags/devlog/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Godot</title>
+				<link>https://darkpro1337.github.io/ru/tags/godot/</link>
+				<pubDate>Thu, 13 Feb 2025 04:48:34 +0400</pubDate>
+				<guid>https://darkpro1337.github.io/ru/tags/godot/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Modding</title>
+				<link>https://darkpro1337.github.io/ru/tags/modding/</link>
+				<pubDate>Thu, 13 Feb 2025 04:48:34 +0400</pubDate>
+				<guid>https://darkpro1337.github.io/ru/tags/modding/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Wasm</title>
+				<link>https://darkpro1337.github.io/ru/tags/wasm/</link>
+				<pubDate>Thu, 13 Feb 2025 04:48:34 +0400</pubDate>
+				<guid>https://darkpro1337.github.io/ru/tags/wasm/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Arcomage</title>
+				<link>https://darkpro1337.github.io/ru/tags/arcomage/</link>
+				<pubDate>Sun, 25 Jul 2021 01:03:02 +0300</pubDate>
+				<guid>https://darkpro1337.github.io/ru/tags/arcomage/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>
