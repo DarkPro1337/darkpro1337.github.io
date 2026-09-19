@@ -27,6 +27,7 @@ showComments: false
 - [**Arcomage**](https://github.com/DarkPro1337/Arcomage) — фанатский ремейк классической карточной игры Arcomage, созданный на **Godot Engine 4 (.NET)**. [Читать девлоги](/tags/arcomage/).
 - [**GodotHub**](https://github.com/DarkPro1337/GodotHub) — кроссплатформенный лаунчер и менеджер экземпляров Godot Engine, разработанный на **AvaloniaUI**.
 - [**LinkWise**](https://github.com/DarkPro1337/LinkWise) — кроссплатформенное настольное приложение для маршрутизации ссылок и выбора профилей браузера, разработанное на **AvaloniaUI**.
+- [**Greenwatch**](https://github.com/DarkPro1337/greenwatch) — Telegram-бот, который отслеживает вакансии на досках Greenhouse и уведомляет о подходящих открытиях, разработанный на **Kotlin**.
 
 ### Переводы
 Мне нравится помогать сообществу, переводя руководства с английского на русский:

@@ -27,6 +27,7 @@ I’m a software developer based in Yerevan, Armenia. I work primarily with **C#
 - [**Arcomage**](https://github.com/DarkPro1337/Arcomage) — A fan-made remake of the classic Arcomage card game, built with **Godot Engine 4 (.NET)**. [Read the devlogs](/tags/arcomage/).
 - [**GodotHub**](https://github.com/DarkPro1337/GodotHub) — A cross-platform launcher and instance manager for Godot Engine, built with **AvaloniaUI**.
 - [**LinkWise**](https://github.com/DarkPro1337/LinkWise) — A cross-platform desktop application for routing links and selecting browser profiles, built with **AvaloniaUI**.
+- [**Greenwatch**](https://github.com/DarkPro1337/greenwatch) — A Telegram bot that watches Greenhouse job boards and notifies you about matching openings, built with **Kotlin**.
 
 ### Translations
 I enjoy helping the community by translating guides from English into Russian:
